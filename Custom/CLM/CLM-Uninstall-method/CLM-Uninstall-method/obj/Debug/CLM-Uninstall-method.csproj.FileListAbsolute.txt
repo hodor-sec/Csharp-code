@@ -1,0 +1,9 @@
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\bin\Debug\CLM-Uninstall-method.exe.config
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\bin\Debug\CLM-Uninstall-method.exe
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\bin\Debug\CLM-Uninstall-method.pdb
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\bin\Debug\System.Management.Automation.dll
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\obj\Debug\CLM-Uninstall-method.csprojAssemblyReference.cache
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\obj\Debug\CLM-Uninstall-method.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\obj\Debug\CLM-Uninstall-method.csproj.CopyComplete
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\obj\Debug\CLM-Uninstall-method.exe
+Z:\osep\code_repos\CLM-Uninstall-method\CLM-Uninstall-method\obj\Debug\CLM-Uninstall-method.pdb

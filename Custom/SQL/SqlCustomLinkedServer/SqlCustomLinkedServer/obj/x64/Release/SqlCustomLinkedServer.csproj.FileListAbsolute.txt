@@ -1,0 +1,7 @@
+Z:\osep\code_repos\SqlCustomLinkedServer\SqlCustomLinkedServer\bin\x64\Release\SqlCustomLinkedServer.exe.config
+Z:\osep\code_repos\SqlCustomLinkedServer\SqlCustomLinkedServer\bin\x64\Release\SqlCustomLinkedServer.exe
+Z:\osep\code_repos\SqlCustomLinkedServer\SqlCustomLinkedServer\bin\x64\Release\SqlCustomLinkedServer.pdb
+Z:\osep\code_repos\SqlCustomLinkedServer\SqlCustomLinkedServer\obj\x64\Release\SqlCustomLinkedServer.csprojAssemblyReference.cache
+Z:\osep\code_repos\SqlCustomLinkedServer\SqlCustomLinkedServer\obj\x64\Release\SqlCustomLinkedServer.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\SqlCustomLinkedServer\SqlCustomLinkedServer\obj\x64\Release\SqlCustomLinkedServer.exe
+Z:\osep\code_repos\SqlCustomLinkedServer\SqlCustomLinkedServer\obj\x64\Release\SqlCustomLinkedServer.pdb

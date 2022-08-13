@@ -1,0 +1,9 @@
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\Debug\fodhelper_bypass.exe.config
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\Debug\fodhelper_bypass.exe
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\Debug\fodhelper_bypass.pdb
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\Debug\NDesk.Options.dll
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\Debug\fodhelper_bypass.csprojAssemblyReference.cache
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\Debug\fodhelper_bypass.csproj.CoreCompileInputs.cache
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\Debug\fodhelper_bypass.csproj.CopyComplete
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\Debug\fodhelper_bypass.exe
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\Debug\fodhelper_bypass.pdb

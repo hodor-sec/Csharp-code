@@ -1,0 +1,6 @@
+Z:\osep\code_repos\SqlStoredProcedure\SqlStoredProcedure\bin\x64\Release\SqlStoredProcedure.dll
+Z:\osep\code_repos\SqlStoredProcedure\SqlStoredProcedure\bin\x64\Release\SqlStoredProcedure.pdb
+Z:\osep\code_repos\SqlStoredProcedure\SqlStoredProcedure\obj\x64\Release\SqlStoredProcedure.csprojAssemblyReference.cache
+Z:\osep\code_repos\SqlStoredProcedure\SqlStoredProcedure\obj\x64\Release\SqlStoredProcedure.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\SqlStoredProcedure\SqlStoredProcedure\obj\x64\Release\SqlStoredProcedure.dll
+Z:\osep\code_repos\SqlStoredProcedure\SqlStoredProcedure\obj\x64\Release\SqlStoredProcedure.pdb

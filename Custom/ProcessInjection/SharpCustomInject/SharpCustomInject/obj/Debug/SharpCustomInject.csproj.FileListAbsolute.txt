@@ -1,0 +1,7 @@
+Z:\osep\code_repos\SharpCustomInject\SharpCustomInject\bin\Debug\SharpCustomInject.exe.config
+Z:\osep\code_repos\SharpCustomInject\SharpCustomInject\bin\Debug\SharpCustomInject.exe
+Z:\osep\code_repos\SharpCustomInject\SharpCustomInject\bin\Debug\SharpCustomInject.pdb
+Z:\osep\code_repos\SharpCustomInject\SharpCustomInject\obj\Debug\SharpCustomInject.csprojAssemblyReference.cache
+Z:\osep\code_repos\SharpCustomInject\SharpCustomInject\obj\Debug\SharpCustomInject.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\SharpCustomInject\SharpCustomInject\obj\Debug\SharpCustomInject.exe
+Z:\osep\code_repos\SharpCustomInject\SharpCustomInject\obj\Debug\SharpCustomInject.pdb

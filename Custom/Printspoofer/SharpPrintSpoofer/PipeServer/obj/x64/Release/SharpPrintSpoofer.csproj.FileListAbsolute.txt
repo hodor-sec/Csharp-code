@@ -1,0 +1,7 @@
+Z:\osep\code_repos\PipeServer\PipeServer\bin\x64\Release\SharpPrintSpoofer.exe.config
+Z:\osep\code_repos\PipeServer\PipeServer\bin\x64\Release\SharpPrintSpoofer.exe
+Z:\osep\code_repos\PipeServer\PipeServer\bin\x64\Release\SharpPrintSpoofer.pdb
+Z:\osep\code_repos\PipeServer\PipeServer\obj\x64\Release\SharpPrintSpoofer.csprojAssemblyReference.cache
+Z:\osep\code_repos\PipeServer\PipeServer\obj\x64\Release\SharpPrintSpoofer.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\PipeServer\PipeServer\obj\x64\Release\SharpPrintSpoofer.exe
+Z:\osep\code_repos\PipeServer\PipeServer\obj\x64\Release\SharpPrintSpoofer.pdb

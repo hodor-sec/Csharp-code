@@ -1,0 +1,6 @@
+Z:\osep\code_repos\SqlCustomAssemblyLoad\SqlCustomAssemblyLoad\bin\x64\Release\SqlCustomAssemblyLoad.exe
+Z:\osep\code_repos\SqlCustomAssemblyLoad\SqlCustomAssemblyLoad\bin\x64\Release\SqlCustomAssemblyLoad.pdb
+Z:\osep\code_repos\SqlCustomAssemblyLoad\SqlCustomAssemblyLoad\obj\x64\Release\SqlCustomAssemblyLoad.csprojAssemblyReference.cache
+Z:\osep\code_repos\SqlCustomAssemblyLoad\SqlCustomAssemblyLoad\obj\x64\Release\SqlCustomAssemblyLoad.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\SqlCustomAssemblyLoad\SqlCustomAssemblyLoad\obj\x64\Release\SqlCustomAssemblyLoad.exe
+Z:\osep\code_repos\SqlCustomAssemblyLoad\SqlCustomAssemblyLoad\obj\x64\Release\SqlCustomAssemblyLoad.pdb

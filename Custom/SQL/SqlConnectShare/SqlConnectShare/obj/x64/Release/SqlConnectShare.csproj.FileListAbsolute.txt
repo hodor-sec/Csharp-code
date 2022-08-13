@@ -1,0 +1,7 @@
+Z:\osep\code_repos\SqlConnectShare\SqlConnectShare\bin\x64\Release\SqlConnectShare.exe.config
+Z:\osep\code_repos\SqlConnectShare\SqlConnectShare\bin\x64\Release\SqlConnectShare.exe
+Z:\osep\code_repos\SqlConnectShare\SqlConnectShare\bin\x64\Release\SqlConnectShare.pdb
+Z:\osep\code_repos\SqlConnectShare\SqlConnectShare\obj\x64\Release\SqlConnectShare.csprojAssemblyReference.cache
+Z:\osep\code_repos\SqlConnectShare\SqlConnectShare\obj\x64\Release\SqlConnectShare.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\SqlConnectShare\SqlConnectShare\obj\x64\Release\SqlConnectShare.exe
+Z:\osep\code_repos\SqlConnectShare\SqlConnectShare\obj\x64\Release\SqlConnectShare.pdb

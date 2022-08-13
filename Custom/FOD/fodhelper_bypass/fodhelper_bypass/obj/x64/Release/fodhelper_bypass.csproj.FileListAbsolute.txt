@@ -1,0 +1,16 @@
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\x64\Release\fodhelper_bypass.exe.config
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\x64\Release\fodhelper_bypass.exe
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\x64\Release\fodhelper_bypass.pdb
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\x64\Release\NDesk.Options.dll
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\x64\Release\fodhelper_bypass.csproj.CoreCompileInputs.cache
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\x64\Release\fodhelper_bypass.csproj.CopyComplete
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\x64\Release\fodhelper_bypass.exe
+Y:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\x64\Release\fodhelper_bypass.pdb
+Z:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\x64\Release\fodhelper_bypass.exe.config
+Z:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\x64\Release\fodhelper_bypass.exe
+Z:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\x64\Release\fodhelper_bypass.pdb
+Z:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\bin\x64\Release\NDesk.Options.dll
+Z:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\x64\Release\fodhelper_bypass.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\x64\Release\fodhelper_bypass.csproj.CopyComplete
+Z:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\x64\Release\fodhelper_bypass.exe
+Z:\osep\code_repos\fodhelper_bypass\fodhelper_bypass\obj\x64\Release\fodhelper_bypass.pdb

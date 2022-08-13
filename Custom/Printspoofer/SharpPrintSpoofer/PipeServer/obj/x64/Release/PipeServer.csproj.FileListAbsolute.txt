@@ -1,0 +1,7 @@
+Z:\osep\code_repos\PipeServer\PipeServer\bin\x64\Release\PipeServer.exe.config
+Z:\osep\code_repos\PipeServer\PipeServer\bin\x64\Release\PipeServer.exe
+Z:\osep\code_repos\PipeServer\PipeServer\bin\x64\Release\PipeServer.pdb
+Z:\osep\code_repos\PipeServer\PipeServer\obj\x64\Release\PipeServer.csprojAssemblyReference.cache
+Z:\osep\code_repos\PipeServer\PipeServer\obj\x64\Release\PipeServer.csproj.CoreCompileInputs.cache
+Z:\osep\code_repos\PipeServer\PipeServer\obj\x64\Release\PipeServer.exe
+Z:\osep\code_repos\PipeServer\PipeServer\obj\x64\Release\PipeServer.pdb

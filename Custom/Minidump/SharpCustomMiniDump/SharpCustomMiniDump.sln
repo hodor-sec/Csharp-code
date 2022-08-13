@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpCustomMiniDump", "SharpCustomMiniDump\SharpCustomMiniDump.csproj", "{2678BA87-DAC4-4A24-A031-A27D71BD229C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2678BA87-DAC4-4A24-A031-A27D71BD229C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2678BA87-DAC4-4A24-A031-A27D71BD229C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2678BA87-DAC4-4A24-A031-A27D71BD229C}.Debug|x64.ActiveCfg = Debug|x64
+		{2678BA87-DAC4-4A24-A031-A27D71BD229C}.Debug|x64.Build.0 = Debug|x64
+		{2678BA87-DAC4-4A24-A031-A27D71BD229C}.Release|Any CPU.ActiveCfg = Release|x64
+		{2678BA87-DAC4-4A24-A031-A27D71BD229C}.Release|Any CPU.Build.0 = Release|x64
+		{2678BA87-DAC4-4A24-A031-A27D71BD229C}.Release|x64.ActiveCfg = Release|x64
+		{2678BA87-DAC4-4A24-A031-A27D71BD229C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {778C8783-7D44-4871-B48C-E929977E62D9}
+	EndGlobalSection
+EndGlobal
